@@ -1,0 +1,4 @@
+- 👋 Hi, I’m C Jerry
+- 👀 I’m interested in php, js and react
+- 🌱 I’m currently learning Reactjs
+- 📫 How to reach me 08080541051 on whatsapp
